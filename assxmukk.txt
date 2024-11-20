@@ -4,4 +4,5 @@ print(SA)
 
 aklıma bir şey gelmedi
 
+bir değişiklik 
 herhangi bir şey
