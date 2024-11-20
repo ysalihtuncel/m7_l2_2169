@@ -1,0 +1,7 @@
+yazdır_ekrana_yazı(MESAJ MESAJ MESAJ)
+
+print(SA)
+
+aklıma bir şey gelmedi
+
+herhangi bir şey
